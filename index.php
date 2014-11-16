@@ -6,6 +6,9 @@
 </head>
 <body>
 <div id="page">
+	<h1>
+		SnapText
+	</h1>
 	<div id="fillin">
 		<form method="post">
 			<input type="submit" name="button" value="clear"/>
