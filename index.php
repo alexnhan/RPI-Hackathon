@@ -9,6 +9,10 @@
 	<h1>
 		SnapText
 	</h1>
+	<h2>
+		What is on your mind?
+		You also have the power of clearing everyone's messages.
+	</h2>
 	<div id="fillin">
 		<form method="post">
 			<input type="submit" name="button" value="clear"/>
