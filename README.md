@@ -1,4 +1,4 @@
 RPI-Hackathon
 =============
-Project to search restaurants in New York by filters.
+Project to create a help center, where customers create tickets and are responded by admins.  Programmed in C#.
 With git...
